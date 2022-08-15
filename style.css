@@ -1,0 +1,29 @@
+#imgluana{
+  width: 300px;
+  border: 1px solid #035403;
+  margin: 0 auto 0 auto;
+  
+  
+}
+
+body{
+  text-align: center;
+  background-color: #74c874;
+  }
+
+  
+}
+ul {
+  list-style-type: none;  
+  padding-inline-start: 0 !important;  
+}
+.itemmenu{
+  display:inline-block;
+  
+  padding: 0 40px 0 40px;
+  border: 1px solid #74c874;
+    
+}
+.navegacao{
+  padding: 0;
+}
